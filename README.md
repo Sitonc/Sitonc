@@ -1,4 +1,6 @@
-# Hello There 👋
+# Hello There
+
+<img src="https://media.tenor.com/1is1Nz8pQJ8AAAAC/friend-naoki-urasawa.gif" height="370">
 
 <!--
 **Sitonc/Sitonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
